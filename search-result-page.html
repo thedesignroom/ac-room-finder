@@ -1,0 +1,227 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    
+    <!-- TITLE -->
+    <title>Search Results</title>
+    
+    <!-- MAIN STYLESHEET -->
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- FONT AWESOME STYLESHEET -->
+    <script src="https://kit.fontawesome.com/461aba629f.js" crossorigin="anonymous"></script>
+    
+    <!-- FAVICON -->
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+    <link rel="manifest" href="favicon/site.webmanifest">
+
+</head>
+
+<body>
+    
+	<header class = "wrapper">
+        <section class = "navigation">
+        
+            <!------- CODE FOR AC LOGO ON MOBILE VIEW ------->
+            <div class = "wordmark-green desktop-hide mobile-show">
+                <a href = "index.html">
+                    <img src = "images/ac-wordmark-green.svg" alt = "Algonquin College Logo">
+                </a>
+            </div>
+           
+            <!------- CODE FOR AC LOGO ON DESKTOP VIEW ------->
+            <div class = "logo-green desktop-show mobile-hide">
+                <a href = "index.html">
+                    <img src = "images/ac-logo-green.svg" alt = "Algonquin College Logo">
+                </a>
+            </div>
+
+            <div class = "navbar">
+                <!------- CODE FOR CAMPUS DROPDOWN MENU ON MOBILE VIEW ------->
+                <div class="dropdown desktop-hide tablet-hide mobile-show">
+                    <button onclick="campusMenu()" class="dropbtn">OTTAWA 
+                       <i class="fa fa-caret-down"></i>
+                    </button>
+                        
+                    <div id="myDropdown" class="dropdown-content">
+                        <a href="#">Ottawa</a>
+                        <a href="#">Pembroke</a>
+                        <a href="#">Perth</a>
+                    </div>
+                </div>
+            </div>
+                
+            <!------- JAVASCRIPT CODE FOR CAMPUS DROPDOWN MENU ON MOBILE VIEW ------->
+            <script>
+                function campusMenu() {
+                    document.getElementById("myDropdown").classList.toggle("show");
+                }
+
+                window.onclick = function(event) {
+                    if (!event.target.matches('.dropbtn')) {
+                    var dropdowns = document.getElementsByClassName("dropdown-content");
+                    var i;
+                    for (i = 0; i < dropdowns.length; i++) {
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')) {
+                        openDropdown.classList.remove('show');
+                       }
+                      }
+                     }
+                    }
+            </script>
+            
+            <!------- CODE FOR CAMPUS MENU ON DESKTOP VIEW ------->   
+            <div class = "navbar desktop-show tablet-show mobile-hide">
+                <ul>
+                    <li><a href = "#" class = "active">Ottawa</a></li>
+                    <li><a href = "#">Pembroke</a></li>
+                    <li><a href = "#">Perth</a></li>
+                </ul>
+            </div>
+        </section>
+	</header>
+
+	<main class = "wrapper">
+   
+        <!------- CODE FOR BREADCRUMBS / PAGE TRAIL ------->
+        <section class = "breadcrumbs">
+            <a href = "index.html">Home</a> > 
+            <a href = "search-result-page.html">Search Results</a>
+        </section>
+
+        <section>
+            <h1>Search Results</h1>
+        </section>
+
+        <section>
+
+            <!------- CODE FOR RESULT BOX 1 ------->
+            <section class = "search-results">
+                <div class = "result-box-1">
+                    <img src = "images/j204-student-view.jpg" alt = "J204 Classroom - Student View">
+                    <h2>J204</h2>
+                    <h3 class = "text-box">J Building</h3>
+
+                    <div class="result-box-icons">
+                        <div class = "room-capacity">
+                            <span class = "icon-students icons"></span>
+                            <p>23</p>
+                        </div>
+
+                        <div class = "room-outlets">
+                            <span class = "icon-outlet icons"></span>
+                            <p>20</p>
+                        </div>
+
+                        <div class = "room-boards">
+                            <span class = "icon-whiteboard icons"></span>
+                            <p>5</p>
+                        </div>
+                    </div>
+
+                    <a href="#" class="view-room-button">View Room</a>
+                </div>
+
+                <!------- CODE FOR RESULT BOX 2 ------->
+                <div class = "result-box-2">
+                    <img src = "images/j209-side-view.jpg" alt = "J204 Classroom - Student View">
+                    <h2>J209</h2>
+                    <h3 class = "text-box">J Building</h3>
+
+                    <div class="result-box-icons">
+                        <div class = "room-capacity">
+                            <span class = "icon-students icons"></span>
+                            <p>23</p>
+                        </div>
+
+                        <div class = "room-outlets">
+                            <span class = "icon-outlet icons"></span>
+                            <p>20</p>
+                        </div>
+
+                        <div class = "room-boards">
+                            <span class = "icon-whiteboard icons"></span>
+                            <p>5</p>
+                        </div>
+                    </div>
+
+                    <a href="result-page.html" class="view-room-button">View Room</a>
+                </div>
+
+                <!------- CODE FOR RESULT BOX 3 ------->
+                <div class = "result-box-3">
+                    <img src = "images/j210-side-view.jpg" alt = "J204 Classroom - Student View">
+                    <h2>J210</h2>
+                    <h3 class = "text-box">J Building</h3>
+
+                    <div class="result-box-icons">
+                        <div class = "room-capacity">
+                            <span class = "icon-students icons"></span>
+                            <p>23</p>
+                        </div>
+
+                        <div class = "room-outlets">
+                            <span class = "icon-outlet icons"></span>
+                            <p>20</p>
+                        </div>
+
+                        <div class = "room-boards">
+                            <span class = "icon-whiteboard icons"></span>
+                            <p>5</p>
+                        </div>
+                    </div>
+
+                    <a href="#" class="view-room-button">View Room</a>
+                </div>
+            </section> 
+        </section>
+    </main>    
+
+    <!------- CODE FOR FOOTER ------->
+	<footer>
+        <div class = "footer-container">
+            <div class = "logo-white">
+                <a href = "index.html">
+                    <img src = "images/ac-logo-white.png" alt = "Algonquin College Logo" class = "ac-logo-white">
+                </a>
+            </div>
+            
+            <div class = "campus-1">
+                <h4>Ottawa</h4>
+                <p>1385 Woodroffe Avenue <br> 
+                   Ottawa, Ontario K2G 1V8 <br>
+                   613-727-4723</p>
+            </div>
+                
+            <div class = "campus-2">
+                <h4>Pembroke</h4>
+                <p>1 College Way <br>
+                   Pembroke, Ontario K8A 0C8 <br>
+                   613-735-4700</p>
+            </div>
+                
+            <div class = "campus-3">
+                <h4>Perth</h4>
+                <p>7 Craig Street <br>
+                   Perth, Ontario K7H 1X7 <br>
+                   613-267-2859</p>
+            </div>
+        </div>
+        
+        <div class = "copyright">
+            <p>
+                <span class = "icon-copyright"></span>
+                2020 Algonquin College of Applied Arts and Technology | 
+                <a href = "#">Website Feedback</a> |
+                <a href = "#">Privacy Statement</a>
+            </p>
+        </div>
+    </footer>
+
+</body>
+</html>
