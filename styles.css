@@ -425,7 +425,7 @@ Team Members:   Geetanjali Pawase
         border: none;
         color: #006341;
         padding: 16px;
-        font-size: 1rem;
+        font-size: 1.8rem !important;
         font-weight: 600;
         cursor: pointer;
         text-align: right;
@@ -468,7 +468,7 @@ Team Members:   Geetanjali Pawase
     .breadcrumbs a {
 
         color: #212721;
-        font-size: 1.3rem;
+        font-size: 1.5rem !important;
     }
     
 /*-------------------- SEARCH-FIELDS --------------------*/
