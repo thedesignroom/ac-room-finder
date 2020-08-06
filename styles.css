@@ -744,6 +744,12 @@ Team Members:   Geetanjali Pawase
         grid-area: room-boards;
     }
     
+    .result-box-icons .icons {
+        
+        font-size: 1.8rem !important;
+        font-weight: 600;
+    }
+    
     .result-box-icons p {
         
         font-size: 1.3rem;
