@@ -1562,7 +1562,7 @@ Team Members:   Geetanjali Pawase
     .popular h4 a {
 
         color: #212721;
-        font-size: 1.8rem;
+        font-size: 1.8rem !important;
     }
     
 /*-------------------- POPULAR SEARCHES ICONS --------------------*/
