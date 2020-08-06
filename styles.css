@@ -338,21 +338,12 @@ Team Members:   Geetanjali Pawase
 
 @media screen and (min-width: 400px) {
     
-/*-------------------- VISIBILITY --------------------*/   
-    
-/*
+/*-------------------- VISIBILITY --------------------*/    
     .mobile-show {
 
         display: block;
     }
-*/
     
-    .mobile-show-nav {
-
-        display: none;
-    }
-
-
     .mobile-hide {
 
         display: none;
