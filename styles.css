@@ -1862,7 +1862,7 @@ Team Members:   Geetanjali Pawase
 
     h1 {
 
-        font-size: 2.4rem;
+        font-size: 2.4rem !important;
     }
     
     h2 {
