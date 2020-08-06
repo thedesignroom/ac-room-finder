@@ -469,6 +469,7 @@ Team Members:   Geetanjali Pawase
     .breadcrumbs a {
 
         color: #212721;
+        font-size: 1.3rem;
     }
     
 /*-------------------- SEARCH-FIELDS --------------------*/
@@ -1434,7 +1435,15 @@ Team Members:   Geetanjali Pawase
 
         border-bottom: 3px solid #43B02A;
     }
+    
+/*-------------------- BREADCRUMBS --------------------*/
 
+    .breadcrumbs a {
+
+        color: #212721;
+        font-size: 1.3rem;
+    }
+    
 /*-------------------- SEARCH-FIELD STYLES --------------------*/
 
     .search {
