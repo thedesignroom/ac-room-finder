@@ -363,27 +363,27 @@ Team Members:   Geetanjali Pawase
 
     h1 {
 
-        font-size: 2rem;
+        font-size: 1.7rem;
     }
     
     h2 {
         
-        font-size: 1.8rem;
+        font-size: 1.6rem;
     }
     
     h3 {
 
-        font-size: 1.7rem;
+        font-size: 1.5rem;
     }
     
     h4 {
         
-        font-size: 1.6rem;
+        font-size: 1.4rem;
     }
     
     p {
         
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
     
 /*-------------------- LOGO --------------------*/
@@ -469,7 +469,6 @@ Team Members:   Geetanjali Pawase
     .breadcrumbs a {
 
         color: #212721;
-        font-size: 1.1rem;
     }
     
 /*-------------------- SEARCH-FIELDS --------------------*/
