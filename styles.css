@@ -415,7 +415,7 @@ Team Members:   Geetanjali Pawase
         padding: 3% 0 0;
     }
     
-    .navbar a {
+    .navbar ul li a {
         
         font-size: 1.6rem !important;
     }
@@ -1423,7 +1423,7 @@ Team Members:   Geetanjali Pawase
 
     .navbar ul li a {
 
-        font-size: 1.3rem;
+        font-size: 1.5rem !important;
         font-weight: 600;
         text-align: left;
         color: #006341;
