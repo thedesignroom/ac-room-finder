@@ -537,6 +537,11 @@ Team Members:   Geetanjali Pawase
         text-align: center;
     }
     
+    .result .button {
+        
+        font-size: 2rem !important;
+    }
+    
 /*-------------------- BUTTON --------------------*/
 
     .button {
