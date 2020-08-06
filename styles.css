@@ -414,6 +414,11 @@ Team Members:   Geetanjali Pawase
         grid-area: nav;
         padding: 3% 0 0;
     }
+    
+    .navbar a {
+        
+        font-size: 1.6rem !important;
+    }
 
  /*-------------------- CAMPUS DROPDOWN --------------------*/   
     
