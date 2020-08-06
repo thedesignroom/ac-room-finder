@@ -344,6 +344,11 @@ Team Members:   Geetanjali Pawase
 
         display: block;
     }
+    
+    .mobile-show-nav {
+
+        display: none;
+    }
 
 
     .mobile-hide {
