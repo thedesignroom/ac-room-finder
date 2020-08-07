@@ -2927,7 +2927,7 @@ Team Members:   Geetanjali Pawase
     
         margin: 0;
         padding: 0;
-        text-align: center;
+        text-align: center !important;
     }
 
     .morning h3,
@@ -2936,7 +2936,7 @@ Team Members:   Geetanjali Pawase
     .night h3 {
     
         color: #212721;
-        text-align: center;
+        text-align: center !important;
     }
 
     .morning p,
@@ -2944,7 +2944,7 @@ Team Members:   Geetanjali Pawase
     .evening p,
     .night p {
         
-        display: block;
+        display: block !important;
         width: 70%;
         margin: 5% auto;
         padding: 2% 0;
@@ -3995,7 +3995,7 @@ Team Members:   Geetanjali Pawase
     
         margin: 0;
         padding: 0;
-        text-align: center;
+        text-align: center !important;
     }
 
     .morning h3,
@@ -4004,6 +4004,7 @@ Team Members:   Geetanjali Pawase
     .night h3 {
     
         color: #212721;
+        text-align: center !important;
     }
 
     .morning p,
@@ -4011,6 +4012,7 @@ Team Members:   Geetanjali Pawase
     .evening p,
     .night p {
         
+        display: block !important;
         width: 70%;
         margin: 5% auto;
         padding: 2% 0;
