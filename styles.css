@@ -100,7 +100,7 @@ Team Members:   Geetanjali Pawase
     }
 
     [class^="icon-"], [class*=" icon-"] {
-      /* use !important to prevent issues with browser extensions that change fonts */
+      /* use !important  to prevent issues with browser extensions that change fonts */
         font-family: 'icomoon' !important;
         speak: never;
         display: inline-block;
@@ -285,7 +285,7 @@ Team Members:   Geetanjali Pawase
         border: none;
         text-align: center;
         outline: none;
-        font-size: 2rem !important;
+        font-size: 1.1rem;
         transition: 0.4s;
     }
 
@@ -414,11 +414,6 @@ Team Members:   Geetanjali Pawase
         grid-area: nav;
         padding: 3% 0 0;
     }
-    
-    .navbar ul li a {
-        
-        font-size: 1.6rem !important;
-    }
 
  /*-------------------- CAMPUS DROPDOWN --------------------*/   
     
@@ -428,7 +423,7 @@ Team Members:   Geetanjali Pawase
         border: none;
         color: #006341;
         padding: 16px;
-        font-size: 1.8rem !important;
+        font-size: 1.8rem  ;
         font-weight: 600;
         cursor: pointer;
         text-align: right;
@@ -466,12 +461,10 @@ Team Members:   Geetanjali Pawase
     }
 
 /*-------------------- BREADCRUMBS --------------------*/
-
-
     .breadcrumbs a {
 
         color: #212721;
-        font-size: 1.5rem !important;
+        font-size: 1.5rem  ;
     }
     
 /*-------------------- SEARCH-FIELDS --------------------*/
@@ -552,7 +545,7 @@ Team Members:   Geetanjali Pawase
         color: #FFFFFF;
         text-transform: uppercase;
         text-decoration: none;
-        font-size: 2.3rem !important;
+        font-size: 2.3rem  ;
         font-weight: 700;
         margin: 0 auto;
         padding: 1.8% 5%;
@@ -572,7 +565,7 @@ Team Members:   Geetanjali Pawase
         color: #FFFFFF;
         text-transform: uppercase;
         text-decoration: none;
-        font-size: 2.3rem !important;
+        font-size: 2.3rem  ;
         font-weight: 700;
         
     }
@@ -744,14 +737,9 @@ Team Members:   Geetanjali Pawase
         grid-area: room-boards;
     }
     
-    .result-box-icons .icons {
-        
-        font-size: 2.6rem !important;
-    }
-    
     .result-box-icons p {
         
-        font-size: 2.1rem !important;
+        font-size: 1.3rem;
         font-weight: 600;
     }
 
@@ -1353,7 +1341,7 @@ Team Members:   Geetanjali Pawase
 
     h1 {
 
-        font-size: 2.4rem !important;
+        font-size: 2.4rem  ;
     }
     
     h2 {
@@ -1428,7 +1416,7 @@ Team Members:   Geetanjali Pawase
 
     .navbar ul li a {
 
-        font-size: 1.5rem !important;
+        font-size: 1.3rem;
         font-weight: 600;
         text-align: left;
         color: #006341;
@@ -1570,7 +1558,7 @@ Team Members:   Geetanjali Pawase
     .popular h4 a {
 
         color: #212721;
-        font-size: 1.8rem !important;
+        font-size: 1.8rem  ;
     }
     
 /*-------------------- POPULAR SEARCHES ICONS --------------------*/
@@ -1872,27 +1860,27 @@ Team Members:   Geetanjali Pawase
 
     h1 {
 
-        font-size: 2.4rem;
+        font-size: 1.8rem !important;
     }
     
     h2 {
         
-        font-size: 2.3rem;
+        font-size: 1.5rem !important;
     }
     
     h3 {
 
-        font-size: 2.2rem;
+        font-size: 1.3rem !important;
     }
     
     h4 {
         
-        font-size: 2.1rem;
+        font-size: 1.2rem !important;
     }
     
     p {
         
-        font-size: 2rem;
+        font-size: 1.3rem !important;
     }
     
 /*-------------------- LOGO --------------------*/
@@ -2054,7 +2042,7 @@ Team Members:   Geetanjali Pawase
         color: #FFFFFF;
         text-transform: uppercase;
         text-decoration: none;
-        font-size: 1.2rem !important;
+        font-size: 1.2rem  ;
         font-weight: 600;
         margin: 0 auto;
         padding: 1.2% 5%;
@@ -2074,7 +2062,7 @@ Team Members:   Geetanjali Pawase
         color: #FFFFFF;
         text-transform: uppercase;
         text-decoration: none;
-        font-size: 1.1rem !important;
+        font-size: 1.1rem  ;
         font-weight: 600;
         cursor: pointer;
             
@@ -2111,6 +2099,7 @@ Team Members:   Geetanjali Pawase
     .popular h4 a {
 
         color: #212721;
+        font-size: 1.2rem !important;
     }
     
     .accordion {
@@ -2497,6 +2486,7 @@ Team Members:   Geetanjali Pawase
 
     .nearby-icons .icon {
 
+        font-size: 2rem !important;
         margin-bottom: 1rem;
 
     }
@@ -2891,7 +2881,7 @@ Team Members:   Geetanjali Pawase
 
     footer p {
 
-        font-size: 0.9rem;
+        font-size: 0.9rem !important;
         color: #FFFFFF;
     }
 
@@ -2938,27 +2928,27 @@ Team Members:   Geetanjali Pawase
 
     h1 {
 
-        font-size: 1.8rem;
+        font-size: 1.8rem !important;
     }
     
     h2 {
         
-        font-size: 1.5rem;
+        font-size: 1.5rem !important;
     }
     
     h3 {
 
-        font-size: 1.3rem;
+        font-size: 1.3rem !important;
     }
     
     h4 {
         
-        font-size: 1.2rem;
+        font-size: 1.2rem !important;
     }
     
     p {
         
-        font-size: 1.3rem;
+        font-size: 1.3rem !important;
     }
     
 /*-------------------- NAVIGATION --------------------*/
@@ -3080,7 +3070,7 @@ Team Members:   Geetanjali Pawase
     .search .search-term {
 
         width: 90%;
-        font-size: 1.1rem;
+        font-size: 1.1rem !important;
         text-transform: uppercase;
         margin: 0;
         padding: 3.2% 0 3.2% 5%;
@@ -3113,7 +3103,7 @@ Team Members:   Geetanjali Pawase
         color: #FFFFFF;
         text-transform: uppercase;
         text-decoration: none;
-        font-size: 1.2rem;
+        font-size: 1.2rem !important;
         font-weight: 600;
         margin: 0 auto;
         padding: 1.2% 5%;
@@ -3133,7 +3123,7 @@ Team Members:   Geetanjali Pawase
         color: #FFFFFF;
         text-transform: uppercase;
         text-decoration: none;
-        font-size: 1.1rem;
+        font-size: 1.1rem; !important;
         font-weight: 600;
         cursor: pointer;
             
@@ -3157,7 +3147,7 @@ Team Members:   Geetanjali Pawase
 
     .popular-icons .icons {
         
-        font-size: 1.5rem;
+        font-size: 1rem; !important;
         margin-bottom: 0.8rem;
     }
 
@@ -3169,6 +3159,7 @@ Team Members:   Geetanjali Pawase
     .popular h4 a {
 
         color: #212721;
+        font-size: 1.2rem !important;
     }
     
 /*-------------------- POPULAR SEARCHES ICONS --------------------*/
@@ -3221,13 +3212,13 @@ Team Members:   Geetanjali Pawase
 
     .icon {
     
-        font-size: 2.4rem;
+        font-size: 1.8rem !important;
         color: #006341;
     } 
 
     .icons {
 
-        font-size: 2rem;
+        font-size: 1.5rem !important; 
         color: #006341;
     }
     
@@ -3549,6 +3540,7 @@ Team Members:   Geetanjali Pawase
 
     .nearby-icons .icon {
 
+        font-size: 2.2rem !important;
         margin-bottom: 1rem;
 
     }
@@ -3942,7 +3934,7 @@ Team Members:   Geetanjali Pawase
 
     footer p {
 
-        font-size: 0.9rem;
+        font-size: 0.9rem !important;
         color: #FFFFFF;
     }
 
