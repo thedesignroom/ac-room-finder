@@ -2790,7 +2790,7 @@ Team Members:   Geetanjali Pawase
     .book-room .book-field {
 
         width: 100%;
-        font-size: 1.1rem;
+        font-size: 1.1rem !important;
         text-transform: uppercase;
         margin: 0;
         padding: 2% 0 2% 5%;
@@ -3858,7 +3858,7 @@ Team Members:   Geetanjali Pawase
     .book-room .book-field {
 
         width: 100%;
-        font-size: 1.1rem;
+        font-size: 1.1rem !important;
         text-transform: uppercase;
         margin: 0;
         padding: 2% 0 2% 5%;
