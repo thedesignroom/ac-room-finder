@@ -1872,6 +1872,26 @@ Team Members:   Geetanjali Pawase
         grid-area: night;
     }
     
+    .day-schedule h3 {
+        
+        font-size: 0.9rem;
+        margin-top: 5%;
+        margin-bottom: 3%;
+        color: #212721;
+        text-align: left;
+    }
+
+    .day-schedule p {
+    
+        display: inline;
+        width: 50%;
+        margin: 5% auto;
+        margin-right: 5%;
+        padding: 2% 5%;
+        border: 1px solid #CCCCCC;
+        border-radius: 5px;
+    }
+    
     .morning,
     .afternoon,
     .evening,
