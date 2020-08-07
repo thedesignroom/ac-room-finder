@@ -640,19 +640,17 @@ Team Members:   Geetanjali Pawase
     
 /*-------------------- ICON SIZE --------------------*/
 
-/*
     .icon {
     
         font-size: 1.8rem;
         color: #006341;
     } 
 
-    .icons {
+    .popular .icons {
 
-        font-size: 2.6rem;
+        font-size: 2.6rem !important;
         color: #006341;
     }
-*/
     
 /*-------------------- SEARCH-RESULT --------------------*/
 
@@ -1618,6 +1616,22 @@ Team Members:   Geetanjali Pawase
         grid-area: store;
     }
     
+/*-------------------- ICON SIZE --------------------*/
+    
+/*
+    .icon {
+    
+        font-size: 2.4rem;
+        color: #006341;
+    } 
+*/
+
+    .popular .icons {
+
+        font-size: 2.6rem !important;
+        color: #006341;
+    }
+    
 /*-------------------- SEARCH-RESULT --------------------*/
 
     .search-results {
@@ -2191,13 +2205,13 @@ Team Members:   Geetanjali Pawase
         font-size: 2.4rem;
         color: #006341;
     } 
+*/
 
-    .icons {
+    .popular .icons {
 
-        font-size: 2rem;
+        font-size: 1.6rem !important;
         color: #006341;
     }
-*/
      
 /*-------------------- ICON HOVER --------------------*/
 
@@ -3243,19 +3257,17 @@ Team Members:   Geetanjali Pawase
 /*-------------------- ICON SIZE --------------------*/
     
 
-/*
     .icon {
     
         font-size: 1.8rem !important;
         color: #006341;
     } 
 
-    .icons {
+    .popular .icons {
 
         font-size: 1.5rem !important; 
         color: #006341;
     }
-*/
     
 /*-------------------- ICON HOVER --------------------*/
 
