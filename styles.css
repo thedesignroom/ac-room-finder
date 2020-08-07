@@ -1007,7 +1007,7 @@ Team Members:   Geetanjali Pawase
         padding: 2% 0;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr) !important;
         grid-column-gap: 1.5em;
         grid-row-gap: 1.5em;
         grid-template-areas: 
@@ -1222,7 +1222,7 @@ Team Members:   Geetanjali Pawase
         padding: 2% 0;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr) !important;
         grid-column-gap: 1.5em;
         grid-row-gap: 1.5em;
         grid-template-areas: 
