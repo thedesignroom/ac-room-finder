@@ -739,9 +739,15 @@ Team Members:   Geetanjali Pawase
         grid-area: room-boards;
     }
     
+    .result-box-icons .icons {
+        
+        font-size: 2.2rem !important;
+        padding-bottom: 4%;
+    }
+    
     .result-box-icons p {
         
-        font-size: 1.3rem;
+        font-size: 2.4rem !important;
         font-weight: 600;
     }
 
@@ -1651,6 +1657,18 @@ Team Members:   Geetanjali Pawase
         grid-area: box-3;
     }
     
+    .result-box-icons .icons {
+        
+        font-size: 2.2rem !important;
+        padding-bottom: 4%;
+    }
+    
+    .result-box-icons p {
+        
+        font-size: 2.4rem !important;
+        font-weight: 600;
+    }
+    
 /*-------------------- SCHEDULING SECTION --------------------*/    
     .nearby-icons .icon {
 
@@ -2273,13 +2291,13 @@ Team Members:   Geetanjali Pawase
 
     .result-box-icons .icons {
         
-        font-size: 1.3rem;
+        font-size: 1.6rem !important;
         padding-bottom: 4%;
     }
     
     .result-box-icons p {
     
-        font-size: 1.1rem;
+        font-size: 1.4rem !important;
         font-weight: 600;
     }
 
@@ -3329,13 +3347,13 @@ Team Members:   Geetanjali Pawase
 
     .result-box-icons .icons {
         
-        font-size: 1.6rem;
+        font-size: 1.6rem !important;
         padding-bottom: 4%;
     }
     
     .result-box-icons p {
         
-        font-size: 1.4rem;
+        font-size: 1.4rem !important;
         font-weight: 600;
     }
 
