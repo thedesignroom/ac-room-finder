@@ -975,7 +975,7 @@ Team Members:   Geetanjali Pawase
         cursor: pointer;
         padding: 14px 16px;
         transition: 0.3s;
-        font-size: 0.9rem;
+        font-size: 2rem !important;
         font-family: 'Montserrat' , 'Arial', sans-serif;
         font-weight: 600;
     }
@@ -1708,6 +1708,48 @@ Team Members:   Geetanjali Pawase
         font-weight: 600;
     }
     
+/*-------------------- TAB MENU --------------------*/
+    
+    .tab {
+
+        overflow: hidden;
+        border: 1px solid #CCCCCC;
+        background-color: #F1F1F1;
+        margin: 2% 0 3%;
+    }
+
+    .tab button {
+
+        background-color: inherit;
+        width: 50%;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 16px;
+        transition: 0.3s;
+        font-size: 2rem !important;
+        font-family: 'Montserrat' , 'Arial', sans-serif;
+        font-weight: 600;
+    }
+
+    .tab button:hover {
+
+        background-color: #DDDDDD;
+    }
+
+    .tab button.active {
+
+        background-color: #006341;
+        color: #FFFFFF;
+    }
+
+    .tabcontent {
+
+        display: none;
+        padding: 6px 12px;
+        border-top: none;
+    }
     
 /*-------------------- REGISTRARS OFFICE ICONS --------------------*/ 
     
@@ -2630,7 +2672,7 @@ Team Members:   Geetanjali Pawase
         cursor: pointer;
         padding: 14px 16px;
         transition: 0.3s;
-        font-size: 1.2rem;
+        font-size: 1.2rem !important;
         font-family: 'Montserrat' , 'Arial', sans-serif;
         font-weight: 600;
     }
@@ -3697,7 +3739,7 @@ Team Members:   Geetanjali Pawase
         cursor: pointer;
         padding: 14px 16px;
         transition: 0.3s;
-        font-size: 1.2rem;
+        font-size: 1.2rem !important;
         font-family: 'Montserrat' , 'Arial', sans-serif;
         font-weight: 600;
     }
