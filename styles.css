@@ -1210,13 +1210,13 @@ Team Members:   Geetanjali Pawase
         margin-top: 5%;
         margin-bottom: 3%;
         color: #212721;
-        text-align: left;
+        text-align: left !important;
     }
 
     .day-schedule p {
     
-        display: inline;
-        width: 50%;
+        display: inline !important;
+        width: 40%;
         margin: 5% auto;
         margin-right: 5%;
         padding: 2% 5%;
@@ -1887,12 +1887,12 @@ Team Members:   Geetanjali Pawase
         margin-top: 5%;
         margin-bottom: 3%;
         color: #212721;
-        text-align: left;
+        text-align: left !important;
     }
 
     .day-schedule p {
     
-        display: inline;
+        display: inline !important;
         width: 50%;
         margin: 5% auto;
         margin-right: 5%;
