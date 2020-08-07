@@ -1043,8 +1043,10 @@ Team Members:   Geetanjali Pawase
     }
 
     .registrars-office .icons {
-
+        
+        font-size: 2.6rem !important;
         margin-bottom: 1rem;
+        color: #006341;
     }
 
     .registrars-office h4 {
@@ -1252,6 +1254,13 @@ Team Members:   Geetanjali Pawase
 
         grid-area: projectors;
         text-align: center;
+    }
+    
+    .physical-resources .icons {
+        
+        font-size: 2.6rem !important;
+        margin-bottom: 1rem;
+        color: #006341;
     }
 
     .physical-resources h4 {
@@ -1697,6 +1706,25 @@ Team Members:   Geetanjali Pawase
         
         font-size: 2.4rem !important;
         font-weight: 600;
+    }
+    
+    
+/*-------------------- REGISTRARS OFFICE ICONS --------------------*/ 
+    
+    .registrars-office .icons {
+        
+        font-size: 2.6rem !important;
+        margin-bottom: 1rem;
+        color: #006341;
+    }
+
+/*-------------------- PHYSICAL RESOURCES ICONS --------------------*/ 
+    
+    .physical-resources .icons {
+        
+        font-size: 2.6rem !important;
+        margin-bottom: 1rem;
+        color: #006341;
     }
     
 /*-------------------- SCHEDULING SECTION --------------------*/    
@@ -2669,8 +2697,10 @@ Team Members:   Geetanjali Pawase
     }
 
     .registrars-office .icons {
-
+        
+        font-size: 1.9rem !important;
         margin-bottom: 1rem;
+        color: #006341;
     }
 
     .registrars-office h4 {
@@ -2891,7 +2921,9 @@ Team Members:   Geetanjali Pawase
 
     .physical-resources .icons {
 
+        font-size: 1.9rem !important;
         margin-bottom: 1rem;
+        color: #006341;
     }
 
     .physical-resources h4 {
@@ -3732,8 +3764,10 @@ Team Members:   Geetanjali Pawase
     }
 
     .registrars-office .icons {
-
+        
+        font-size: 1.9rem !important;
         margin-bottom: 1rem;
+        color: #006341;
     }
 
     .registrars-office h4 {
@@ -3952,8 +3986,10 @@ Team Members:   Geetanjali Pawase
     }
 
     .physical-resources .icons {
-
+        
+        font-size: 1.9rem !important;
         margin-bottom: 1rem;
+        color: #006341;
     }
 
     .physical-resources h4 {
