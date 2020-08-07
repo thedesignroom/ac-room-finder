@@ -535,6 +535,13 @@ Team Members:   Geetanjali Pawase
         text-align: center;
     }
     
+/*-------------------- ACCORDION --------------------*/
+    
+    .accordion {
+        
+        font-size: 2rem !important;
+    }
+    
 /*-------------------- BUTTON --------------------*/
 
     .button {
@@ -1513,6 +1520,13 @@ Team Members:   Geetanjali Pawase
         text-align: center;
     }
     
+/*-------------------- ACCORDION --------------------*/
+    
+    .accordion {
+        
+        font-size: 2rem !important;
+    }
+    
 /*-------------------- BUTTON --------------------*/
 
     .button {
@@ -2074,6 +2088,14 @@ Team Members:   Geetanjali Pawase
 
         text-align: center;
     }
+    
+/*-------------------- ACCORDION --------------------*/
+    
+    .accordion {
+        
+        font-size: 1.2rem !important;
+    }
+    
     
 /*-------------------- BUTTON --------------------*/
 
@@ -3137,6 +3159,14 @@ Team Members:   Geetanjali Pawase
 
         text-align: center;
     }
+    
+/*-------------------- ACCORDION --------------------*/
+    
+    .accordion {
+        
+        font-size: 1.2rem !important;
+    }
+    
     
 /*-------------------- BUTTON --------------------*/
 
