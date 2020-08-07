@@ -889,7 +889,8 @@ Team Members:   Geetanjali Pawase
         display: grid;
         grid-template-columns: repeat(3,1fr);
         grid-template-rows: auto;
-        grid-gap: 1.5em;
+        grid-column-gap: 1.5em;
+        grid-row-gap: 1.5em;
         grid-template-areas: 
         "icon-1 icon-2 icon-3"
         "icon-4 icon-5 null";
@@ -1094,7 +1095,7 @@ Team Members:   Geetanjali Pawase
     .book-room .book-field {
 
         width: 100%;
-        font-size: 1.1rem;
+        font-size: 1.8rem !important;
         text-transform: uppercase;
         margin: 0;
         padding: 2% 0 2% 5%;
