@@ -814,6 +814,7 @@ Team Members:   Geetanjali Pawase
 
     .caption-mobile {
         
+        font-size: 1.8rem !important;
         text-align: center;
         margin: 0.5rem 0 1rem;
     }
@@ -1203,7 +1204,7 @@ Team Members:   Geetanjali Pawase
         text-align: left;
     }
 
-    .day-schedule p{
+    .day-schedule p {
     
         display: inline;
         width: 50%;
