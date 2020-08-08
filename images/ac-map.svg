@@ -154,8 +154,8 @@
 	.st148{fill:none;stroke:#000000;stroke-width:0.828;stroke-linecap:round;stroke-linejoin:round;}
 	.st149{fill:none;stroke:#FF0000;stroke-width:4;stroke-miterlimit:9.9999;stroke-dasharray:6.0176,6.0176;}
 	.st150{fill:#FFFFFF;stroke:#43B02A;stroke-miterlimit:10;}
-	.st151{font-family:'Montserrat-SemiBold';}
-	.st152{font-size:15.3174px;}
+	.st151{font-family:'Arial-BoldMT';}
+	.st152{font-size:10px;}
 </style>
 <path class="st0" d="M305.1,402.2"/>
 <line class="st1" x1="459" y1="362.7" x2="459" y2="365.6"/>
@@ -10001,5 +10001,6 @@
 </g>
 <path class="st150" d="M451.9,248.3h-114c-3.4,0-6.1,2.7-6.1,6.1v25.8c0,2.7,1.7,4.9,4.1,5.8c-2.8,5.5-6.7,10-6.7,10
 	c8.1-1.8,13.2-5.7,16.4-9.6h106.3c3.4,0,6.1-2.7,6.1-6.1v-25.8C458,251,455.2,248.3,451.9,248.3z"/>
-<text transform="matrix(1 0 0 1 347.1918 272.618)" class="st151 st152">ROOM J209</text>
+<text transform="matrix(1 0 0 1 367.075 263.6755)" class="st151 st152">ROOM J209</text>
+<text transform="matrix(1 0 0 1 363.7249 277.7253)" class="st151 st152">J BUILDING</text>
 </svg>
