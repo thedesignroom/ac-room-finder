@@ -899,7 +899,7 @@ Team Members:   Geetanjali Pawase
         display: grid;
         grid-template-columns: repeat(3,1fr);
         grid-template-rows: repeat(2,1fr);
-        grid-column-gap: 1.5em;
+        grid-column-gap: 0.5em;
         grid-row-gap: 4em !important;
         grid-template-areas: 
         "icon-1 icon-2 icon-3"
@@ -1019,7 +1019,7 @@ Team Members:   Geetanjali Pawase
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(2, 1fr);
-        grid-column-gap: 1.5em;
+        grid-column-gap: 0.5em !important;
         grid-row-gap: 4em !important;
         grid-template-areas: 
         "capacity classroom outlets"
@@ -1237,7 +1237,7 @@ Team Members:   Geetanjali Pawase
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(2, 1fr);
-        grid-column-gap: 1.5em;
+        grid-column-gap: 0.5em !important;
         grid-row-gap: 4em !important;
         grid-template-areas: 
         "chairs computers projectors" 
