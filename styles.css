@@ -442,7 +442,7 @@ Team Members:   Geetanjali Pawase
 
     .dropdown {
       
-        position: relative;
+        position: relative !important;
         left: 35%;
         display: inline-block;
     }
@@ -1893,7 +1893,7 @@ Team Members:   Geetanjali Pawase
     .day-schedule p {
     
         display: inline !important;
-        width: 40%;
+        width: 40% !important;
         margin: 5%;
         margin-right: 5%;
         padding: 2% 5%;
@@ -1908,7 +1908,7 @@ Team Members:   Geetanjali Pawase
     
         margin: 0;
         padding: 0;
-        text-align: center;
+        text-align: left !important;
     }
 
     .morning h3,
@@ -1926,7 +1926,7 @@ Team Members:   Geetanjali Pawase
     .night p {
         
         display: inline !important;
-        width: 70%;
+        width: 40%;
         margin: 5% auto;
         padding: 2% 0;
         border: 1px solid #CCCCCC;
