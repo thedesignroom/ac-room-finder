@@ -1015,6 +1015,7 @@ Team Members:   Geetanjali Pawase
     .registrars-office {
         
         padding: 2% 0;
+        text-align: center;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(2, 1fr);
@@ -1069,7 +1070,8 @@ Team Members:   Geetanjali Pawase
     }
 
     .registrars-office h3 {
-
+        
+        font-size: 1.1rem !important;
         margin-top: 4%;
     }
 
@@ -1231,6 +1233,7 @@ Team Members:   Geetanjali Pawase
     .physical-resources {
         
         padding: 2% 0;
+        text-align: center;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(2, 1fr);
