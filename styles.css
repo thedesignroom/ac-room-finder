@@ -1776,6 +1776,18 @@ Team Members:   Geetanjali Pawase
         margin-bottom: 1rem;
         color: #006341;
     }
+    
+    .registrars-office h4 {
+        
+        font-size: 2rem !important;
+        color: #707070;
+    }
+
+    .registrars-office h3 {
+
+        font-size: 1.8rem !important;
+        margin-top: 4%;
+    }
 
 /*-------------------- PHYSICAL RESOURCES ICONS --------------------*/ 
     
@@ -1785,6 +1797,19 @@ Team Members:   Geetanjali Pawase
         margin-bottom: 1rem;
         color: #006341;
     }
+
+    .physical-resources h4 {
+
+        font-size: 2rem !important;
+        color: #707070;
+    }
+
+    .physical-resources h3 {
+        
+        font-size: 1.8rem !important;
+        margin-top: 4%;
+    }
+
     
 /*-------------------- SCHEDULING SECTION --------------------*/    
     .nearby-icons .icon {
