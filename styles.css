@@ -946,7 +946,7 @@ Team Members:   Geetanjali Pawase
 
     .nearby-icons h4 {
         
-        font-size: 1.7rem !important;
+        font-size: 1.4rem !important;
         color: #707070;
         margin-bottom: 3%;
     }
@@ -1063,7 +1063,8 @@ Team Members:   Geetanjali Pawase
     }
 
     .registrars-office h4 {
-
+        
+        font-size: 1.4rem !important;
         color: #707070;
     }
 
@@ -1279,11 +1280,13 @@ Team Members:   Geetanjali Pawase
 
     .physical-resources h4 {
 
+        font-size: 1.4rem !important;
         color: #707070;
     }
 
     .physical-resources h3 {
-
+        
+        font-size: 1.1rem !important;
         margin-top: 4%;
     }
 
