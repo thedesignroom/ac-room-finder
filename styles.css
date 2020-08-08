@@ -371,27 +371,27 @@ Team Members:   Geetanjali Pawase
 
     h1 {
 
-        font-size: 2.4rem;
+        font-size: 2rem !important;
     }
     
     h2 {
         
-        font-size: 2.3rem;
+        font-size: 1.9rem !important;
     }
     
     h3 {
 
-        font-size: 2.2rem;
+        font-size: 1.8rem !important;
     }
     
     h4 {
         
-        font-size: 2.1rem;
+        font-size: 1.7rem !important;
     }
     
     p {
         
-        font-size: 2rem;
+        font-size: 1.6rem !important;
     }
     
 /*-------------------- LOGO --------------------*/
@@ -1661,13 +1661,6 @@ Team Members:   Geetanjali Pawase
     
 /*-------------------- ICON SIZE --------------------*/
     
-/*
-    .icon {
-    
-        font-size: 2.4rem;
-        color: #006341;
-    } 
-*/
 
     .popular .icons {
 
