@@ -2,7 +2,7 @@
 [Master Stylesheet]
 
 Project:    	Algonquin College Room Finder
-Last change:	08/03/2020 
+Last change:	08/08/2020 
 Author:    		The Design Room
 Team Members:   Geetanjali Pawase
                 Jorge Gomez
@@ -945,7 +945,8 @@ Team Members:   Geetanjali Pawase
     }
 
     .nearby-icons h4 {
-
+        
+        font-size: 2rem !important;
         color: #707070;
         margin-bottom: 3%;
     }
@@ -2666,7 +2667,7 @@ Team Members:   Geetanjali Pawase
     }
 
     .nearby-icons h4 {
-
+        
         color: #707070;
         margin-bottom: 3%;
     }
@@ -2946,7 +2947,7 @@ Team Members:   Geetanjali Pawase
     .night p {
         
         display: block !important;
-        width: 70%;
+        width: 70% !important;
         margin: 5% auto;
         padding: 2% 0;
         border: 1px solid #CCCCCC;
@@ -4015,7 +4016,7 @@ Team Members:   Geetanjali Pawase
     .night p {
         
         display: block !important;
-        width: 70%;
+        width: 70% !important;
         margin: 5% auto;
         padding: 2% 0;
         border: 1px solid #CCCCCC;
