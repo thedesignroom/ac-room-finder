@@ -1225,11 +1225,12 @@ Team Members:   Geetanjali Pawase
 
     .day-schedule p {
     
-        display: inline !important;
-        width: 40% !important;
-        margin: 5%;
+        display: block !important;
+        text-align: left;
+        width: 80% !important;
+        margin: 0;
         margin-right: 5%;
-        padding: 2% 5%;
+        padding: 2% auto;
         border: 1px solid #CCCCCC;
         border-radius: 5px;
     }
@@ -1258,11 +1259,12 @@ Team Members:   Geetanjali Pawase
     .evening p,
     .night p {
         
-        display: inline !important;
-        width: 40%;
-        margin: 5% auto;
-        margin-right: 2%;
-        padding: 2% 4%;
+        display: block!important;
+        font-size: 1.6rem !important;
+        width: 80%;
+        margin: 0;
+        margin-bottom: 2%;
+        padding: 2% auto;
         border: 1px solid #CCCCCC;
         border-radius: 5px;
     }
@@ -2315,6 +2317,7 @@ Team Members:   Geetanjali Pawase
         
         display: inline !important;
         width: 40%;
+        font-size: 1.6rem !important;
         margin: 5% auto;
         margin-right: 2%;
         padding: 2% 4%;
