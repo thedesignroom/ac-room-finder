@@ -473,6 +473,7 @@ Team Members:   Geetanjali Pawase
     }
 
 /*-------------------- BREADCRUMBS --------------------*/
+    
     .breadcrumbs a {
 
         color: #212721;
@@ -1213,29 +1214,59 @@ Team Members:   Geetanjali Pawase
         grid-area: night;
     }
     
-    .morning h3,
-    .afternoon h3,
-    .evening h3,
-    .night h3 {
+    .day-schedule h3 {
         
-        font-size: 1.5rem !important;
+        font-size: 0.9rem;
         margin-top: 5%;
         margin-bottom: 3%;
         color: #212721;
         text-align: left !important;
     }
 
-    .morning button,
-    .afternoon button,
-    .evening button,
-    .night button {
-        
-        display: block !important;
-        width: 70% !important;
-        margin: 5% auto;
+    .day-schedule p {
+    
+        display: inline !important;
+        width: 40% !important;
+        margin: 5%;
+        margin-right: 5%;
+        padding: 2% 5%;
         border: 1px solid #CCCCCC;
         border-radius: 5px;
     }
+    
+    .morning,
+    .afternoon,
+    .evening,
+    .night {
+    
+        margin: 0;
+        padding: 0;
+        text-align: left !important;
+    }
+
+    .morning h3,
+    .afternoon h3,
+    .evening h3,
+    .night h3 {
+    
+        color: #212721;
+        text-align: left !important;
+    }
+
+    .morning p,
+    .afternoon p,
+    .evening p,
+    .night p {
+        
+        display: inline !important;
+        width: 40%;
+        margin: 5% auto;
+        margin-right: 2%;
+        padding: 2% 4%;
+        border: 1px solid #CCCCCC;
+        border-radius: 5px;
+    }
+
 
 
 /*-------------------- PHYSICAL RESOURCES ICON --------------------*/
