@@ -2005,7 +2005,7 @@ Team Members:   Geetanjali Pawase
 
     .nearby-icons h4 {
         
-        font-size: 1.2rem !important;
+        font-size: 1.1rem !important;
         color: #707070;
         margin-bottom: 3%;
     }
@@ -2124,13 +2124,13 @@ Team Members:   Geetanjali Pawase
 
     .registrars-office h4 {
         
-        font-size: 1.2rem !important;
+        font-size: 1.1rem !important;
         color: #707070;
     }
 
     .registrars-office h3 {
         
-        font-size: 1.4rem !important;
+        font-size: 1.3rem !important;
         margin-top: 4%;
     }
 
@@ -2376,13 +2376,13 @@ Team Members:   Geetanjali Pawase
 
     .physical-resources h4 {
 
-        font-size: 1.2rem !important;
+        font-size: 1.1rem !important;
         color: #707070;
     }
 
     .physical-resources h3 {
         
-        font-size: 1.6rem !important;
+        font-size: 1.3rem !important;
         margin-top: 4%;
     }
 
@@ -2448,8 +2448,6 @@ Team Members:   Geetanjali Pawase
     }
 
 }
-
-
 
 /*============= DESKTOP =============*/
 @media screen and (min-width: 1000px) {
