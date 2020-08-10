@@ -477,7 +477,7 @@ Team Members:   Geetanjali Pawase
     .breadcrumbs a {
 
         color: #212721;
-        font-size: 1.5rem !important;
+        font-size: 1.4rem !important;
     }
     
 /*-------------------- SEARCH-FIELDS --------------------*/
@@ -772,11 +772,13 @@ Team Members:   Geetanjali Pawase
 
     .search-results h2 {
         
+        font-size: 1.3rem;
         padding-top: 3%;
     }
 
     .search-results h3 {
         
+        font-size: 1.2rem;
         padding-bottom: 2%;
     }
 
@@ -1533,7 +1535,7 @@ Team Members:   Geetanjali Pawase
     .breadcrumbs a {
 
         color: #212721;
-        font-size: 1.5rem !important;
+        font-size: 1.4rem !important;
     }
     
 /*-------------------- SEARCH-FIELDS --------------------*/
@@ -1828,11 +1830,13 @@ Team Members:   Geetanjali Pawase
 
     .search-results h2 {
         
+        font-size: 1.3rem;
         padding-top: 3%;
     }
 
     .search-results h3 {
         
+        font-size: 1.2rem;
         padding-bottom: 2%;
     }
 
