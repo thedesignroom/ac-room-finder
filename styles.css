@@ -618,13 +618,12 @@ Team Members:   Geetanjali Pawase
         margin: 0 auto;
         padding: 7% 0;
         display: grid;
-        grid-template-columns: repeat(2,1fr);
-        grid-template-rows: repeat(3,1fr);
-        grid-gap: 0.1em;
+        grid-template-columns: repeat(3,1fr);
+        grid-template-rows: repeat(2,1fr);
+        grid-gap: 0.5em;
         grid-template-areas: 
-        "library cafes" 
-        "gym food" 
-        "commons store";
+        "library cafes gym"
+        "food commons store";
     }
     
     .library {
@@ -901,14 +900,13 @@ Team Members:   Geetanjali Pawase
         
         padding: 2% 0;
         display: grid;
-        grid-template-columns: repeat(2,1fr);
-        grid-template-rows: repeat(3,1fr);
+        grid-template-columns: repeat(3,1fr);
+        grid-template-rows: repeat(2,1fr);
         grid-column-gap: 0.5em;
         grid-row-gap: 4em !important;
         grid-template-areas: 
-        "icon-1 icon-2" 
-        "icon-3 icon-4" 
-        "icon-5 null";
+        "icon-1 icon-2 icon-3"
+        "icon-4 icon-5 null";
         
     }
     
@@ -1022,14 +1020,13 @@ Team Members:   Geetanjali Pawase
         padding: 2% 0;
         text-align: center;
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(3, 1fr);
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(2, 1fr);
         grid-column-gap: 0.5em !important;
         grid-row-gap: 4em !important;
         grid-template-areas: 
-        "capacity classroom" 
-        "outlets boards" 
-        "windows null";
+        "capacity classroom outlets"
+        "boards windows null";
     }
 
     .capacity {
@@ -1278,14 +1275,13 @@ Team Members:   Geetanjali Pawase
         padding: 2% 0;
         text-align: center;
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(3, 1fr);
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(2, 1fr);
         grid-column-gap: 0.5em !important;
         grid-row-gap: 4em !important;
         grid-template-areas: 
-        "chairs computers"
-        "projectors tables" 
-        "boards null";
+        "chairs computers projectors" 
+        "tables boards null";
     }
 
     .table {
@@ -1678,13 +1674,12 @@ Team Members:   Geetanjali Pawase
         margin: 0 auto;
         padding: 7% 0;
         display: grid;
-        grid-template-columns: repeat(2,1fr);
-        grid-template-rows: repeat(3,1fr);
+        grid-template-columns: repeat(3,1fr);
+        grid-template-rows: repeat(2,1fr);
         grid-gap: 0.1em;
         grid-template-areas: 
-        "library cafes"
-        "gym food"
-        "commons store";
+        "library cafes gym" 
+        "food commons store";
     }
     
     .library {
@@ -1961,14 +1956,13 @@ Team Members:   Geetanjali Pawase
         
         padding: 2% 0;
         display: grid;
-        grid-template-columns: repeat(2,1fr);
-        grid-template-rows: repeat(3,1fr);
+        grid-template-columns: repeat(3,1fr);
+        grid-template-rows: repeat(2,1fr);
         grid-column-gap: 0.5em;
         grid-row-gap: 4em !important;
         grid-template-areas: 
-        "icon-1 icon-2"
-        "icon-3 icon-4" 
-        "icon-5 null";
+        "icon-1 icon-2 icon-3"
+        "icon-4 icon-5 null";
         
     }
     
@@ -2082,14 +2076,13 @@ Team Members:   Geetanjali Pawase
         padding: 2% 0;
         text-align: center;
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(3, 1fr);
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(2, 1fr);
         grid-column-gap: 0.5em !important;
         grid-row-gap: 4em !important;
         grid-template-areas: 
-        "capacity classroom"
-        "outlets boards" 
-        "windows null";
+        "capacity classroom outlets"
+        "boards windows null";
     }
 
     .capacity {
@@ -2335,14 +2328,13 @@ Team Members:   Geetanjali Pawase
         padding: 2% 0;
         text-align: center;
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(3, 1fr);
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(2, 1fr);
         grid-column-gap: 0.5em !important;
         grid-row-gap: 4em !important;
         grid-template-areas: 
-        "chairs computers"
-        "projectors tables" 
-        "boards null";
+        "chairs computers projectors" 
+        "tables boards null";
     }
 
     .table {
