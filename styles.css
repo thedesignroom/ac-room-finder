@@ -100,7 +100,7 @@ Team Members:   Geetanjali Pawase
     }
 
     [class^="icon-"], [class*=" icon-"] {
-      /* use    to prevent issues with browser extensions that change fonts */
+      /* use  !important  to prevent issues with browser extensions that change fonts */
         font-family: 'icomoon'  ;
         speak: never;
         display: inline-block;
@@ -477,7 +477,7 @@ Team Members:   Geetanjali Pawase
     .breadcrumbs a {
 
         color: #212721;
-        font-size: 1.4rem  ;
+        font-size: 1.5rem  ;
     }
     
 /*-------------------- SEARCH-FIELDS --------------------*/
@@ -1535,7 +1535,7 @@ Team Members:   Geetanjali Pawase
     .breadcrumbs a {
 
         color: #212721;
-        font-size: 1.4rem  ;
+        font-size: 1.5rem  ;
     }
     
 /*-------------------- SEARCH-FIELDS --------------------*/
