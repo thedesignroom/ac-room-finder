@@ -620,7 +620,8 @@ Team Members:   Geetanjali Pawase
         display: grid;
         grid-template-columns: repeat(3,1fr);
         grid-template-rows: repeat(2,1fr);
-        grid-gap: 0.5em;
+        grid-column-gap: 1em;
+        grid-row-gap: 1em;
         grid-template-areas: 
         "library cafes gym"
         "food commons store";
@@ -1678,7 +1679,8 @@ Team Members:   Geetanjali Pawase
         display: grid;
         grid-template-columns: repeat(3,1fr);
         grid-template-rows: repeat(2,1fr);
-        grid-gap: 0.1em;
+        grid-column-gap: 1em;
+        grid-row-gap: 1em;
         grid-template-areas: 
         "library cafes gym" 
         "food commons store";
