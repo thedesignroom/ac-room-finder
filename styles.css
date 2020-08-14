@@ -372,22 +372,22 @@ Team Members:   Geetanjali Pawase
 
     h1 {
 
-        font-size: 2.1rem;
+        font-size: 2.2rem;
     }
     
     h2 {
         
-        font-size: 2rem;
+        font-size: 2.1rem;
     }
     
     h3 {
 
-        font-size: 1.9rem;
+        font-size: 2rem;
     }
     
     h4 {
         
-        font-size: 1.8rem;
+        font-size: 1.9rem;
     }
     
     p {
@@ -621,7 +621,7 @@ Team Members:   Geetanjali Pawase
         grid-template-columns: repeat(3,1fr);
         grid-template-rows: repeat(2,1fr);
         grid-column-gap: 1em;
-        grid-row-gap: 1em;
+        grid-row-gap: 3em;
         grid-template-areas: 
         "library cafes gym"
         "food commons store";
@@ -773,13 +773,11 @@ Team Members:   Geetanjali Pawase
 
     .search-results h2 {
         
-        font-size: 2rem;
         padding-top: 3%;
     }
 
     .search-results h3 {
-        
-        font-size: 1.9rem;
+      
         padding-bottom: 2%;
     }
 
@@ -1432,27 +1430,27 @@ Team Members:   Geetanjali Pawase
 
     h1 {
 
-        font-size: 2.6rem;
+        font-size: 2.8rem;
     }
     
     h2 {
         
-        font-size: 2.4rem;
+        font-size: 2.7rem;
     }
     
     h3 {
 
-        font-size: 2.3rem;
+        font-size: 2.6rem;
     }
     
     h4 {
         
-        font-size: 2.2rem;
+        font-size: 2.4rem;
     }
     
     p {
         
-        font-size: 2.1rem;
+        font-size: 2.2rem;
     }
     
 /*-------------------- LOGO --------------------*/
@@ -1680,7 +1678,7 @@ Team Members:   Geetanjali Pawase
         grid-template-columns: repeat(3,1fr);
         grid-template-rows: repeat(2,1fr);
         grid-column-gap: 1em;
-        grid-row-gap: 1em;
+        grid-row-gap: 3em;
         grid-template-areas: 
         "library cafes gym" 
         "food commons store";
@@ -1832,13 +1830,11 @@ Team Members:   Geetanjali Pawase
 
     .search-results h2 {
         
-        font-size: 2.8rem;
         padding-top: 3%;
     }
 
     .search-results h3 {
         
-        font-size: 2.6rem;
         padding-bottom: 2%;
     }
 
